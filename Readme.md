@@ -1,8 +1,6 @@
-# 🌟 united
+# 🌟 Online travel booking
 
-## 📌 Description
-A brief overview of the project and what it does.
-
+## 📌description
 ## 🎨 Demo Preview (HTML & CSS)
 Here is a simple **HTML & CSS** snippet from the project:
 
@@ -36,8 +34,14 @@ Here is a simple **HTML & CSS** snippet from the project:
         }
     </style>
 </head>
+
 <body>
     <h1>Welcome to My Project 🚀</h1>
     <button class="btn">Click Me!</button>
 </body>
 </html>
+##collaborator
+Siya malik
+ojasi sharma
+ridhi jain
+simran  
